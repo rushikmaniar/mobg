@@ -1,0 +1,53 @@
+= 1.0.12 =
+* WP 4.6.1 compatible.
+
+= 1.0.11 =
+* WP 4.6 compatible.
+* Updated font-awesome icons.
+* Removed unused css.
+* Fix translation issues.
+* Added social links.
+
+= 1.0.10 =
+* Fixed mobile navigation issue.
+
+= 1.0.9 =
+* Fixed theme tags issue.
+* Changed theme screenshot.
+
+= 1.0.8 =
+* Fixed sane default issue.
+
+= 1.0.7 =
+* Fixed header image issue.
+* Fixed design issue when there is no content in front page options.
+
+= 1.0.6 =
+* Fixed theme review issues.
+
+= 1.0.5 =
+* Updated FontAwesome.
+* Fixed text domain and some design issues.
+
+= 1.0.4 =
+* Updated FontAwesome.
+* Applied Customizer API for theme options.
+
+= 1.0.3 =
+* Fixed text domain issue.
+* Removed default setting of OT.
+
+= 1.0.2 =
+* Added escaping in code. 
+* Changed theme version GPLv2 to GPLv3.
+* Removed unnecessary files.
+* Added template for leadcapture form.
+
+= 1.0.1 =
+* Removed unnecessary code.
+* Added escaping in code.
+* Removed plugin territory code.
+* Removed extra tags declared in style.css .
+
+= 1.0.0 =
+* Initial release
